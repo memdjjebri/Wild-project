@@ -1,2 +1,2 @@
 # Wild-project
-# wild-projectt
+# wild-project
